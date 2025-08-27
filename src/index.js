@@ -42,4 +42,5 @@ function createInnerHTML(tag, value){
     tagg.innerHTML = value;
     return tagg
 }
+
 console.log(data[0]);
